@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Mercado Livre Aula</string>
     <string name="texto_titulo_principal">O que está esperando?</string>
+    <string name="text_subtitulo">É grátis</string>
 </resources>
