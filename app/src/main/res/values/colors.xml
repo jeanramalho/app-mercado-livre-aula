@@ -10,4 +10,5 @@
 
     <!-- -->
     <color name="Azul">#3483FA</color>
+    <color name="transparent"></color>
 </resources>
