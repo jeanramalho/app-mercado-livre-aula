@@ -42,7 +42,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
-        android:backgroundTint="@android:color/transparent"
+        android:backgroundTint="@color/transparent"
         android:text="JÁ TENHO CONTA"
         android:textColor="@color/Azul"
         app:layout_constraintEnd_toEndOf="parent"
